@@ -1,4 +1,4 @@
-package com.example.kettlecontroller
+package com.example.kettlecontroller.ui.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
