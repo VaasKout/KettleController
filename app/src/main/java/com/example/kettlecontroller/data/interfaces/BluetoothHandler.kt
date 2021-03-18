@@ -1,4 +1,4 @@
-package com.example.kettlecontroller.data
+package com.example.kettlecontroller.data.interfaces
 
 import com.example.kettlecontroller.data.database.Kettle
 
